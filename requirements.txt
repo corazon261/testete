@@ -1,0 +1,18 @@
+# --- Interface e Visualização ---
+streamlit
+plotly
+
+# --- Inteligência Artificial ---
+agno
+python-dotenv
+
+# --- Processamento de Dados ---
+# Pandas será usado apenas para facilitar a exibição em tabelas no Streamlit
+pandas
+
+# --- Testes ---
+pytest
+
+# --- Qualidade de Código (Opcional) ---
+black
+flake8
